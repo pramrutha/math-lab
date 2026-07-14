@@ -1,29 +1,25 @@
-Mathematics Lab Experiments
+# Mathematics Lab Experiments
 
-This repository contains the Mathematics Lab Experiments completed as part of the coursework and internal assessment requirements. The experiments, observations, calculations, and related files are uploaded here for academic record and evaluation purposes.
+This repository contains the Mathematics Lab experiments completed as part of the academic curriculum. It is maintained for the submission, documentation, and evaluation of laboratory work by the course instructor.
 
-Contents
+## Repository Contents
 
-- Experiment reports
-- Calculations and solutions
-- Graphs and tables
-- Supporting documents (if any)
+- Mathematics Lab experiment records
+- Source files (if applicable)
+- Calculations and observations
+- Supporting documents related to each experiment
 
-Purpose
+## Purpose
 
-The repository is maintained to:
+This repository serves as the official submission for Mathematics Lab experiments and is intended for academic evaluation and record-keeping.
 
-- Submit mathematics lab work digitally
-- Keep all experiment records organized in one place
-- Facilitate review and marking by the course instructor
+## Student Information
 
-Academic Information
-
-- Subject: Mathematics Lab
-- Submitted by: [Pr Amrutha]
-- Class / Roll No.: [EC 54]
-- Institution: [Saintgits College of Engineering]
+- **Name:** [Pr Amrutha]
+- **Roll Number:** [54]
+- **Department:** [ECE]
+- **Institution:** [Saintgits College Of Engineering]
 
 ---
 
-This repository is intended for academic submission and evaluation only..
+**Note:** This repository is created solely for educational and assessment purposes.
